@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+}
+body{ 
+
+    background-color: hotpink;
+} 
+  a{
+    text-decoration: none;
+  }
+img{
+     width: 70%;       /*Largura da imagem*/
+    height: 70%;       /*Altura da imagem*/ 
+    opacity: 90% ;     /*opacidade da imagem*/ 
+    border: 8px solid; 
+    border-color: aliceblue;
+} 
+img{
+    text-align: center;
+    zoom: 1;
+} 
+img:hover{
+    zoom: 1.25;
+}
+    
+     
+
+img:hover{
+    opacity: 100%;
+  
+}
+
+h1{
+    text-align: center;
+    color: darkmagenta;
+} 
+
+h2{ 
+    text-align: center;
+    color: darkorchid;
+} 
+
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
